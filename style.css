@@ -1,0 +1,32 @@
+.algn {
+  text-align: center;
+}
+.clr {
+  color: red;
+}
+
+.ml {
+  margin-left: 40px;
+}
+
+.mt {
+  margin-top: 0%;
+}
+.mb {
+  margin-bottom: 0%;
+}
+
+.mtt {
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+.sz {
+  size: 6cm;
+}
+.algn3 {
+  text-align: left;
+}
+
+.bg {
+  background-color: salmon;
+}
